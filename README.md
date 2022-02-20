@@ -6,4 +6,6 @@ The challenge is that the manager at the bank is disturbed with more customers l
 
 This dataset consists of 10,127 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are about 22 features. 
 
-![alt text](http://localhost:8888/view/Desktop/Nod_coding_Bootcamp/Projects/Screenshot%202022-02-20%20at%2018.09.03.png)
+<div align="center">
+    <img src="Screenshot%202022-02-20%20at%2018.09.03.png" width="400px"</img> 
+</div>
